@@ -85,9 +85,6 @@ while True:
 - Implement **data logging** using Google Sheets or Firebase.
 - Improve **power efficiency** for longer deployments.
 
-## License
-This project is open-source and available under the **MIT License**.
-
 ## Contributions
 Feel free to contribute by opening issues or submitting pull requests!
 
